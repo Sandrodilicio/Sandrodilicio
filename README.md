@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil🐒
 
 Meu nome é Sandro Rodrigues
 
@@ -10,5 +10,6 @@ compartilhamento dos meus projetos desenvolvidos
 ### Você pode entrar em contato comigo :mailbox
 
 srm82049@gmail.com
+
 
 ![](https://tenor.com/dfaO7BthZEE.gif)
